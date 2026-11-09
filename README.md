@@ -44,3 +44,4 @@ Create a Pages project using the repository's GitHub integration with these sett
 - Root directory: **Repository root**
 
 Cloudflare Pages will deploy `public/index.html` directly. Pushes to `main` create production deployments; pushes to other branches create preview deployments. To update the deployed site, commit changes and push them to the configured branch.
+# ui-ux-portflolio
